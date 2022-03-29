@@ -1,5 +1,5 @@
 
-Cleaned csv files for the Big Data Cup (data found [here](https://github.com/bigdatacup/Big-Data-Cup-2021)).
+Cleaned csv files for the tracking data from Big Data Cup (data found [here](https://github.com/bigdatacup/Big-Data-Cup-2021)).
 
 You can check out what CAN-USA P1 PP1 looks like [on my Twitter](https://twitter.com/the_bucketless/status/1508884825792425984).
 
@@ -9,7 +9,7 @@ Things I'm updating:
   <li>Adjusting all coordinates up and to the left (https://twitter.com/the_bucketless/status/1508478054175154177).</li>
   <li>Occasionally touching up coordinates beyond that.</li>
   <li>Adding goalie jersey numbers. It's rare that I'll do this for any other player, but I think it's important to keep track of which one of them is the goalie.</li>
-  <li>Removing tracks that aren't around for more than 6 frames. These are often what I've taken to calling phantoms (false positives from the object detection). This will occasionally remove a legitimate track, but if the player's around for less than a 5th of a second, I think we can ignore them.</li>
+  <li>Removing tracks that aren't around for more than 6 frames. These are often what I've taken to calling phantoms (false positives from the object detection model). This will occasionally remove a legitimate track, but if the player's around for less than a 5th of a second, I think we can ignore them.</li>
   <li>Removing any other phantoms that come up.</li>
   <li>Merging track_id values representing the same player when within a few frames of each other.</li>
   <li>Imputing coordinates for players if they go missing for a few frames.</li>
