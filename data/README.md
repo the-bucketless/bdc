@@ -1,5 +1,5 @@
 
-Cleaned csv files for the tracking data from Big Data Cup (data found [here](https://github.com/bigdatacup/Big-Data-Cup-2021)).
+Cleaned csv files for the tracking data from the Big Data Cup (data found [here](https://github.com/bigdatacup/Big-Data-Cup-2021)).
 
 You can check out what CAN-USA P1 PP1 looks like [on my Twitter](https://twitter.com/the_bucketless/status/1508884825792425984).
 
