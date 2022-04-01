@@ -6,6 +6,7 @@ You can check out what CAN-USA P1 PP1 looks like [on my Twitter](https://twitter
 A couple notes:
 <ul>
   <li>If coordinates look a little choppy somewhere, that's almost certainly my fault.</li>
+  <li>In the neutral zone, I think the faster pans are giving the MOT some difficulty which is probably resulting in my removing more tracks than I ought to there. It's where there are most likely to be missing players.</li>
   <li>When playing with the files, consider the coordinates to be an area as opposed to a specific point. A goalie's positioning can be affected by their stance and players who fall can look like they're moving much faster than everyone else.</li>
 </ul>  
 
