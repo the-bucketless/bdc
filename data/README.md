@@ -27,7 +27,8 @@ Things I'm updating:
 Things I've removed:
 <ul>
   <li>Video shot 3 from CAN USA P1 PP2.</li>
-  <li>Video shot 3 from CAN USA P1 PP3.</li>
+  <li>Video shot 3 from CAN USA P2 PP3.</li>
+  <li>Video shot 5 from CAN USA P2 PP5.</li>
 </ul>
 I'm not ambitious enough to try to work with those right now. They're both short clips outside the ozone, so you're not missing much.
 
