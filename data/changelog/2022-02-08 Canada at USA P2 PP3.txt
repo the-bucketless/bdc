@@ -708,3 +708,40 @@ Added track 439 to frame 2538 of video shot 2.
 Deleted video shot 3.
 Manually deleted frame 3282 to 3416 of video shot 2.
 Imputed coordinates for all tracks.
+Set jersey number of track 407 in video shot 1 to 20.
+Set jersey number of track 411 in video shot 1 to 21.
+Set jersey number of track 418 in video shot 1 to 3.
+Set jersey number of track 437 in video shot 1 to 20.
+Set jersey number of track 5 in video shot 2 to 21.
+Set jersey number of track 6 in video shot 2 to 26.
+Set jersey number of track 32 in video shot 2 to 3.
+Set jersey number of track 126 in video shot 2 to 28.
+Set jersey number of track 126 in video shot 2 to 21.
+Set jersey number of track 61 in video shot 2 to 28.
+Set jersey number of track 100 in video shot 2 to 26.
+Set jersey number of track 72 in video shot 2 to 26.
+Set jersey number of track 28 in video shot 2 to 28.
+Set jersey number of track 124 in video shot 2 to 5.
+Set jersey number of track 137 in video shot 2 to 26.
+Set jersey number of track 143 in video shot 2 to 5.
+Set jersey number of track 148 in video shot 2 to 25.
+Set jersey number of track 163 in video shot 2 to 12.
+Set jersey number of track 187 in video shot 2 to 25.
+Set jersey number of track 279 in video shot 2 to 28.
+Set jersey number of track 348 in video shot 2 to 25.
+Set jersey number of track 384 in video shot 2 to 21.
+Set jersey number of track 383 in video shot 2 to 5.
+Set jersey number of track 8 in video shot 2 to 14.
+Set jersey number of track 797 in video shot 2 to 3.
+Set jersey number of track 9 in video shot 2 to 3.
+Set jersey number of track 44 in video shot 2 to 3.
+Set jersey number of track 92 in video shot 2 to 27.
+Set jersey number of track 61 in video shot 2 to 27.
+Set jersey number of track 92 in video shot 2 to 28.
+Set jersey number of track 75 in video shot 2 to 7.
+Set jersey number of track 140 in video shot 2 to 3.
+Set jersey number of track 135 in video shot 2 to 12.
+Set jersey number of track 173 in video shot 2 to 7.
+Set jersey number of track 330 in video shot 2 to 5.
+Merged track 356 from video shot 2 with track 330.
+Imputed coordinates for all tracks.
