@@ -30,6 +30,6 @@ Things I've removed:
   <li>Video shot 3 from CAN USA P2 PP3.</li>
   <li>Video shot 5 from CAN USA P2 PP5.</li>
 </ul>
-I'm not ambitious enough to try to work with those right now. They're both short clips outside the ozone, so you're not missing much.
+I'm not ambitious enough to try to work with those right now.
 
 If checking the changelog directory, note that the first two files are incomplete and the third may be missing information from some manual manipulation of the file.
