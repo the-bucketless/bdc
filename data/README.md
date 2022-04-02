@@ -29,6 +29,7 @@ Things I've removed:
   <li>Video shot 3 from CAN USA P1 PP2.</li>
   <li>Video shot 3 from CAN USA P2 PP3.</li>
   <li>Video shot 5 from CAN USA P2 PP5.</li>
+  <li>Video shot 2 from CAN USA P3 PP6.</li>
 </ul>
 I'm not ambitious enough to try to work with those right now.  
 <br/><br/>
