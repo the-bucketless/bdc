@@ -1,0 +1,23 @@
+Shifted all coordinates (-8.0, -4.0).
+Removed all tracks appearing 6 or fewer frames.
+Set jersey number of track 4 in video shot 1 to 35.
+Switched team of track 4 from video shot 1.
+Added track 11 to frame 1 of video shot 1 (team Canada, jersey number 100, x 29.0, y 23.0).
+Merged track 13 from video shot 1 with track 6.
+Merged track 15 from video shot 1 with track 6.
+Merged track 16 from video shot 1 with track 10.
+Merged track 30 from video shot 1 with track 19.
+Merged track 38 from video shot 1 with track 21.
+Merged track 39 from video shot 1 with track 11.
+Switched team of track 44 from video shot 1.
+Set jersey number of track 44 in video shot 1 to 35.
+Merged track 44 from video shot 1 with track 4.
+Deleted video shot 2.
+Set jersey number of track 3 in video shot 1 to 20.
+Set jersey number of track 11 in video shot 1 to 40.
+Set jersey number of track 41 in video shot 1 to 15.
+Set jersey number of track 9 in video shot 1 to 28.
+Set jersey number of track 37 in video shot 1 to 20.
+Set jersey number of track 1 in video shot 1 to 26.
+Set jersey number of track 10 in video shot 1 to 3.
+Imputed coordinates for all tracks.

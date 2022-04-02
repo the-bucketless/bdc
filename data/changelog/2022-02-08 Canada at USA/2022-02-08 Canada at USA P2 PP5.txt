@@ -1,0 +1,108 @@
+Shifted all coordinates (-8.0, -4.0).
+Removed all tracks appearing 6 or fewer frames.
+Switched team of track 45 from video shot 1.
+Set jersey number of track 45 in video shot 1 to 35.
+Switched team of track 47 from video shot 1.
+Switched team of track 48 from video shot 1.
+Switched team of track 50 from video shot 1.
+Switched team of track 52 from video shot 1.
+Merged track 52 from video shot 1 with track 50.
+Merged track 53 from video shot 1 with track 49.
+Switched team of track 67 from video shot 1.
+Switched team of track 69 from video shot 1.
+Merged track 74 from video shot 1 with track 65.
+Merged track 77 from video shot 1 with track 41.
+Merged track 124 from video shot 1 with track 65.
+Switched team of track 123 from video shot 1.
+Set jersey number of track 144 in video shot 1 to 35.
+Switched team of track 144 from video shot 1.
+Merged track 146 from video shot 1 with track 135.
+Set jersey number of track 115 in video shot 2 to 35.
+Switched team of track 125 from video shot 2.
+Switched team of track 127 from video shot 2.
+Added track 127 to frame 1276 of video shot 2 (team Canada, jersey number 100, x 29.0, y 30.0).
+Switched team of track 129 from video shot 2.
+Merged track 130 from video shot 2 with track 127.
+Switched team of track 146 from video shot 2.
+Merged track 157 from video shot 2 with track 137.
+Switched team of track 100 from video shot 2.
+Undo.
+Switched team of track 162 from video shot 2.
+Set jersey number of track 162 in video shot 2 to 35.
+Merged track 169 from video shot 2 with track 142.
+Merged track 170 from video shot 2 with track 147.
+Switched team of track 174 from video shot 2.
+Merged track 175 from video shot 2 with track 174.
+Set jersey number of track 189 in video shot 2 to 35.
+Added track 12 to frame 2298 of video shot 3 (team Canada, jersey number 100, x 104.0, y 60.0).
+Merged track 14 from video shot 3 with track 12.
+Switched team of track 29 from video shot 3.
+Set jersey number of track 29 in video shot 3 to 35.
+Merged track 7 from video shot 3 with track 12 starting at frame 2362.
+Switched team of track 31 from video shot 3.
+Merged track 31 from video shot 3 with track 7.
+Switched team of track 34 from video shot 3.
+Switched team of track 37 from video shot 3.
+Merged track 35 from video shot 3 with track 12.
+Switched team of track 40 from video shot 3.
+Merged track 40 from video shot 3 with track 34.
+Added track 12 to frame 2514 of video shot 3 (team USA, jersey number 1, x 192.0, y 13.0).
+Switched team of track 79 from video shot 4.
+Switched team of track 82 from video shot 4.
+Set jersey number of track 82 in video shot 4 to 35.
+Added track 190 to frame 2761 of video shot 4 (team Canada, jersey number 100, x 160.0, y 11.0).
+Added track 190 to frame 2802 of video shot 4 (team Canada, jersey number 100, x 139.0, y 11.0).
+Added track 190 to frame 2822 of video shot 4 (team Canada, jersey number 100, x 134.0, y 7.0).
+Added track 190 to frame 2853 of video shot 4 (team Canada, jersey number 100, x 131.0, y 7.0).
+Added track 191 to frame 2761 of video shot 4 (team USA, jersey number 1, x 134.0, y 7.0).
+Added track 191 to frame 2793 of video shot 4 (team Canada, jersey number 100, x 129.0, y 7.0).
+Undo.
+Added track 191 to frame 2793 of video shot 4 (team USA, jersey number 100, x 131.0, y 7.0).
+Added track 191 to frame 2830 of video shot 4 (team USA, jersey number 100, x 129.0, y 6.0).
+Added track 191 to frame 2847 of video shot 4 (team USA, jersey number 100, x 123.0, y 6.0).
+Merged track 93 from video shot 4 with track 85.
+Merged track 96 from video shot 4 with track 79.
+Merged track 78 from video shot 4 with track 192 starting at frame 2920.
+Switched team of track 192 from video shot 4.
+Merged track 110 from video shot 4 with track 78.
+Merged track 87 from video shot 4 with track 81.
+Switched team of track 113 from video shot 4.
+Merged track 192 from video shot 4 with track 79.
+Deleted video shot 5.
+Set jersey number of track 50 in video shot 1 to 29.
+Set jersey number of track 46 in video shot 1 to 20.
+Set jersey number of track 56 in video shot 1 to 19.
+Set jersey number of track 43 in video shot 1 to 28.
+Set jersey number of track 62 in video shot 1 to 15.
+Set jersey number of track 135 in video shot 1 to 26.
+Set jersey number of track 123 in video shot 1 to 28.
+Set jersey number of track 123 in video shot 2 to 20.
+Set jersey number of track 117 in video shot 2 to 20.
+Set jersey number of track 124 in video shot 2 to 15.
+Set jersey number of track 174 in video shot 2 to 15.
+Set jersey number of track 12 in video shot 3 to 26.
+Set jersey number of track 2 in video shot 3 to 40.
+Set jersey number of track 34 in video shot 3 to 5.
+Set jersey number of track 33 in video shot 3 to 19.
+Set jersey number of track 81 in video shot 4 to 19.
+Set jersey number of track 191 in video shot 4 to 11.
+Set jersey number of track 79 in video shot 4 to 21.
+Set jersey number of track 76 in video shot 4 to 26.
+Set jersey number of track 106 in video shot 4 to 40.
+Set jersey number of track 117 in video shot 4 to 3.
+Set jersey number of track 113 in video shot 4 to 19.
+Imputed coordinates for all tracks.
+Manually shifted coordinates for tracks 1662 to 1917 in video shot 2, keeping track 147 stationary throughout.
+Manually shifted coordinates for tracks 1888 to 1917 in video shot 2 to smooth transition.
+Set jersey number of track 49 in video shot 1 to 26.
+Set jersey number of track 47 in video shot 1 to 23.
+Set jersey number of track 41 in video shot 1 to 21.
+Set jersey number of track 127 in video shot 2 to 27.
+Set jersey number of track 142 in video shot 2 to 24.
+Set jersey number of track 147 in video shot 2 to 21.
+Set jersey number of track 7 in video shot 3 to 20.
+Manually updated track 12 in video shot 3 to have consistent team (USA).
+Set jersey number of track 48 in video shot 1 to 19.
+Set jersey number of track 125 in video shot 2 to 21.
+Set jersey number of track 108 in video shot 4 to 11.
+Manually removed frames 526 to 674 of video shot 1 (video from after stoppage in play).
