@@ -30,7 +30,16 @@ Things I've removed:
   <li>Video shot 3 from CAN USA P2 PP3.</li>
   <li>Video shot 5 from CAN USA P2 PP5.</li>
   <li>Video shot 2 from CAN USA P3 PP6.</li>
+  <li>Video shot 3 from ROC FIN P2 PP5.</li>
 </ul>
 I'm not ambitious enough to try to work with those right now.  
+
+Files skipped:
+<ul>
+  <li>CAN USA P3 PP7 - it looked like a lot of coordinate adjustments, so I'll come back to this later.</li>
+  <li>ROC FIN P2 PP3 - too short to bother with.</li>
+  <li>ROC FIN P2 PP4 - too short to bother with.</li>
+</ul>
+
 <br/><br/>
 If checking the changelog directory, note that the first two files are incomplete and the third may be missing information from some manual manipulation of the file.
