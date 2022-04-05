@@ -1,0 +1,45 @@
+Shifted all coordinates (-8.0, -4.0).
+Switched team of track 18 from video shot 1.
+Switched team of track 11 from video shot 1.
+Switched team of track 19 from video shot 1.
+Switched team of track 21 from video shot 1.
+Merged track 22 from video shot 1 with track 21.
+Switched team of track 26 from video shot 1.
+Merged track 26 from video shot 1 with track 19.
+Added track 19 to frame 81 of video shot 1 (team ROC, jersey number 100, x 180.0, y 20.0).
+Switched team of track 28 from video shot 1.
+Merged track 28 from video shot 1 with track 16.
+Merged track 29 from video shot 1 with track 19.
+Merged track 34 from video shot 1 with track 17.
+Removed track 30 from video shot 1.
+Removed track 33 from video shot 1.
+Removed track 36 from video shot 1.
+Switched team of track 37 from video shot 1.
+Merged track 37 from video shot 1 with track 13.
+Removed track 38 from video shot 1.
+Switched team of track 41 from video shot 1.
+Merged track 39 from video shot 1 with track 12.
+Removed track 43 from video shot 1.
+Merged track 45 from video shot 1 with track 12.
+Imputed coordinates for track 3-36 of video shot -1.
+Added track 39 to frame 962 of video shot 2 (team ROC, jersey number 100, x 13.0, y 40.0).
+Switched team of track 40 from video shot 2.
+Removed track 41 from video shot 2.
+Switched team of track 45 from video shot 2.
+Deleted video shot 3.
+Set jersey number of track 16 in video shot 1 to 70.
+Set jersey number of track 13 in video shot 1 to 15.
+Set jersey number of track 19 in video shot 1 to 97.
+Set jersey number of track 11 in video shot 1 to 27.
+Set jersey number of track 10 in video shot 1 to 36.
+Set jersey number of track 12 in video shot 1 to 88.
+Set jersey number of track 14 in video shot 1 to 77.
+Set jersey number of track 41 in video shot 1 to 15.
+Set jersey number of track 18 in video shot 1 to 13.
+Set jersey number of track 17 in video shot 1 to 33.
+Set jersey number of track 21 in video shot 1 to 6.
+Set jersey number of track 39 in video shot 2 to 30.
+Set jersey number of track 40 in video shot 2 to 13.
+Set jersey number of track 37 in video shot 2 to 13.
+Removed track 44 from video shot 2.
+Set jersey number of track 43 in video shot 2 to 12.
