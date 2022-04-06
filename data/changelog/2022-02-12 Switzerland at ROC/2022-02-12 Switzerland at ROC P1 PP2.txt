@@ -214,3 +214,4 @@ Set jersey number of track 38 in video shot 2 to 2.
 Set jersey number of track 119 in video shot 2 to 29.
 Set jersey number of track 118 in video shot 2 to 27.
 Set jersey number of track 153 in video shot 2 to 20.
+Removed track 116 from video shot 2.
