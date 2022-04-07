@@ -23,3 +23,14 @@ Set jersey number of track 141 in video shot 1 to 3.
 Merged track 141 from video shot 1 with track 110.
 Set jersey number of track 223 in video shot 1 to 26.
 Set jersey number of track 305 in video shot 1 to 21.
+Set jersey number of track 162 in video shot 1 to 12.
+Set jersey number of track 196 in video shot 1 to 12.
+Set jersey number of track 218 in video shot 1 to 12.
+Set jersey number of track 282 in video shot 1 to 3.
+Set jersey number of track 310 in video shot 1 to 12.
+Set jersey number of track 361 in video shot 1 to 28.
+Set jersey number of track 48 in video shot 2 to 3.
+Set jersey number of track 53 in video shot 2 to 28.
+Set jersey number of track 85 in video shot 2 to 5.
+Set jersey number of track 98 in video shot 2 to 15.
+Set jersey number of track 151 in video shot 2 to 15.
