@@ -166,3 +166,4 @@ Imputed coordinates for video shot 2.
 Set jersey number of track 92 in video shot 2 to 22.
 Manually removed frames 1194 to 1270.
 Manually removed frames 3252 to 3400.
+Set jersey number of track 143 in video shot 2 to 30.
