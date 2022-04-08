@@ -36,6 +36,7 @@ Things I've removed:
   <li>Video shot 3 from SUI ROC P3 PP3.</li>
   <li>Video shot 2 from SUI ROC P3 PP5.</li>
   <li>Video shot 2 from USA FIN P2 PP1.</li>
+  <li>Video shot 2 from USA FIN P2 PP3.</li>
 </ul>
 I'm not ambitious enough to try to work with those right now.  
 
