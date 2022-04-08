@@ -25,7 +25,6 @@ Things I'm updating:
 
 Things I've removed:
 <ul>
-  <li>Video shot 3 from CAN USA P1 PP2.</li>
   <li>Video shot 3 from CAN USA P2 PP3.</li>
   <li>Video shot 5 from CAN USA P2 PP5.</li>
   <li>Video shot 2 from CAN USA P3 PP6.</li>
@@ -39,7 +38,13 @@ Things I've removed:
   <li>Video shot 2 from USA FIN P2 PP3.</li>
   <li>Video shot 2 from USA FIN P3 PP4.</li>
 </ul>
-I'm not ambitious enough to try to work with those right now.  
+I may come back to these, in which case they'll end up in the next section.  
+
+<br/><br/>
+Things I've handtracked:
+<ul>
+  <li>Video shot 3 from CAN USA P1 PP2.</li>
+</ul>
 
 <br/><br/>
 Files skipped:
