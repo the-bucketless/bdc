@@ -53,6 +53,7 @@ Files skipped:
   <li>CAN USA P3 PP7 - it looked like a lot of coordinate adjustments, so I'll come back to this later.</li>
   <li>ROC FIN P2 PP3 - too short to bother with.</li>
   <li>ROC FIN P2 PP4 - too short to bother with.</li>
+  <li>USA FIN P3 PP6 - about 12 seconds of 6v5 time.</li>
 </ul>
 
 <br/><br/>
