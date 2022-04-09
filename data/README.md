@@ -9,6 +9,7 @@ A couple notes:
   <li>When playing with the files, consider the coordinates to be an area as opposed to a specific point. A goalie's positioning can be affected by their stance and players who fall can look like they're moving much faster than everyone else.</li>
 </ul>  
 
+<br/><br/>
 Things I'm updating:
 <ul>
   <li>Adding a column for video shots. Probably more useful for me than you. A video shot is a continuous view of the game from one camera. The model can only determine where on the ice the action is happening from the center ice camera, so anything else gets cut out. When the game leaves and then returns to the center ice camera, everything gets reset. As a result, the values in track_id are not unique to a single player. To make them unique, we can group by track_id and video_shot.</li>
@@ -23,6 +24,7 @@ Things I'm updating:
   <li>Imputing coordinates for players if they go missing for a few frames.</li>
 </ul>
 
+<br/><br/>
 Things I've removed:
 <ul>
   <li>Video shot 3 from CAN USA P2 PP3.</li>
