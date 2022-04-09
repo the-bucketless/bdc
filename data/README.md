@@ -44,6 +44,7 @@ I may come back to these, in which case they'll end up in the next section.
 Things I've handtracked:
 <ul>
   <li>Video shot 3 from CAN USA P1 PP2.</li>
+  <li>Video shot 2 from USA FIN P3 PP5.</li>
 </ul>
 
 <br/><br/>
