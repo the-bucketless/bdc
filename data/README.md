@@ -36,6 +36,7 @@ Things I've removed:
   <li>Video shot 2 from USA FIN P2 PP1.</li>
   <li>Video shot 2 from USA FIN P2 PP3.</li>
   <li>Video shot 2 from USA FIN P3 PP4.</li>
+  <li>Video shot 3 from SUI CAN P2 PP4 - last 2 seconds of the powerplay.</li>
 </ul>
 I may come back to these, in which case they'll end up in the next section.  
 
