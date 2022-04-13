@@ -3,6 +3,7 @@ Cleaned csv files for the tracking data from the Big Data Cup (data found [here]
 
 You can check out what CAN-USA P1 PP1 looks like [on my Twitter](https://twitter.com/the_bucketless/status/1508884825792425984).
 
+<br/><br/>
 A couple notes:
 <ul>
   <li>If coordinates look a little choppy somewhere, that's almost certainly my fault.</li>
