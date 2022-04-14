@@ -18,7 +18,7 @@ Things I'm updating:
   <li>Adjusting all coordinates up and to the left (https://twitter.com/the_bucketless/status/1508478054175154177).</li>
   <li>Occasionally touching up coordinates beyond that.</li>
   <li>Setting tracks to the correct team.</li>
-  <li>Setting jersey numbers for goalies and players involved in play-by-play events.</li>
+  <li>Setting jersey numbers for goalies and players.</li>
   <li>Removing false positives from the object detection model.</li>
   <li>Merging track_id values representing the same player when within a few frames of each other.</li>
   <li>Imputing coordinates for players if they go missing for a few frames.</li>
@@ -39,10 +39,20 @@ Things I've removed:
 I may come back to these, in which case they'll end up in the next section.  
 
 <br/><br/>
+Files skipped:
+<ul>
+  <li>ROC FIN P2 PP3 - too short to bother with.</li>
+  <li>ROC FIN P2 PP4 - too short to bother with.</li>
+  <li>USA FIN P3 PP6 - about 12 seconds of 6v5 time.</li>
+</ul>
+
+<br/><br/>
 Things I've handtracked:
 <ul>
   <li>Video shot 3 from CAN USA P1 PP2.</li>
   <li>Video shot 3 from CAN USA P2 PP3.</li>
+  <li>Parts of video shot 1 from CAN USA P3 PP7.</li>
+  <li>Video shot 2 from CAN USA P3 PP7.</li>
   <li>Video shot 5 from CAN USA P2 PP5.</li>
   <li>Video shot 2 from CAN USA P3 PP6.</li>
   <li>Video shot 3 from ROC FIN P2 PP5.</li>
@@ -51,15 +61,6 @@ Things I've handtracked:
   <li>Video shot 5 from SUI CAN P1 PP1.</li>
   <li>Video shot 3 from SUI CAN P1 PP2.</li>
   <li>Video shot 3 from SUI CAN P3 PP5.</li>
-</ul>
-
-<br/><br/>
-Files skipped:
-<ul>
-  <li>CAN USA P3 PP7 - it looked like a lot of coordinate adjustments, so I'll come back to this later.</li>
-  <li>ROC FIN P2 PP3 - too short to bother with.</li>
-  <li>ROC FIN P2 PP4 - too short to bother with.</li>
-  <li>USA FIN P3 PP6 - about 12 seconds of 6v5 time.</li>
 </ul>
 
 <br/><br/>
