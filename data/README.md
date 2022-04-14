@@ -25,6 +25,14 @@ Things I'm updating:
 </ul>
 
 <br/><br/>
+Files skipped:
+<ul>
+  <li>ROC FIN P2 PP3 - too short to bother with.</li>
+  <li>ROC FIN P2 PP4 - too short to bother with.</li>
+  <li>USA FIN P3 PP6 - about 12 seconds of 6v5 time.</li>
+</ul>
+
+<br/><br/>
 Things I've removed:
 <ul>
   <li>Video shot 3 from SUI ROC P1 PP1 - last 4 seconds of the powerplay.</li>
@@ -37,14 +45,6 @@ Things I've removed:
   <li>Video shot 3 from SUI CAN P2 PP4 - last 2 seconds of the powerplay.</li>
 </ul>
 I may come back to these, in which case they'll end up in the next section.  
-
-<br/><br/>
-Files skipped:
-<ul>
-  <li>ROC FIN P2 PP3 - too short to bother with.</li>
-  <li>ROC FIN P2 PP4 - too short to bother with.</li>
-  <li>USA FIN P3 PP6 - about 12 seconds of 6v5 time.</li>
-</ul>
 
 <br/><br/>
 Things I've handtracked:
