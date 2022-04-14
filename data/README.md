@@ -38,7 +38,7 @@ Things I've removed:
   <li>Video shot 3 from SUI ROC P1 PP1 - last 4 seconds of the powerplay.</li>
   <li>Video shot 2 from SUI ROC P3 PP5.</li>
   <li>Video shot 2 from USA FIN P2 PP1.</li>
-  <li>Video shot 2 from USA FIN P2 PP3.</li>
+  <li>Video shot 2 from USA FIN P2 PP3 - 4 seconds near the end of the powerplay.</li>
   <li>Video shot 2 from USA FIN P3 PP4.</li>
   <li>Video shot 3 from SUI CAN P2 PP4 - last 2 seconds of the powerplay.</li>
 </ul>
