@@ -36,7 +36,6 @@ Files skipped:
 Things I've removed:
 <ul>
   <li>Video shot 3 from SUI ROC P1 PP1 - last 4 seconds of the powerplay.</li>
-  <li>Video shot 3 from SUI ROC P1 PP2.</li>
   <li>Video shot 3 from SUI ROC P3 PP3.</li>
   <li>Video shot 2 from SUI ROC P3 PP5.</li>
   <li>Video shot 2 from USA FIN P2 PP1.</li>
@@ -55,6 +54,7 @@ Things I've handtracked:
   <li>Video shot 2 from CAN USA P3 PP7.</li>
   <li>Video shot 5 from CAN USA P2 PP5.</li>
   <li>Video shot 2 from CAN USA P3 PP6.</li>
+  <li>Video shot 3 from SUI ROC P1 PP2.</li>
   <li>Video shot 3 from ROC FIN P2 PP5.</li>
   <li>Video shot 3 from ROC FIN P3 PP6.</li>
   <li>Video shot 2 from USA FIN P3 PP5.</li>
