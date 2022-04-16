@@ -660,3 +660,8 @@ Set jersey number of track 566 in video shot 2 to 28.
 Set jersey number of track 567 in video shot 2 to 33.
 Set jersey number of track 568 in video shot 2 to 88.
 Manually removed frames 2694 to 2753.
+Added track 10 to frame 3692 of video shot 2 (team Finland, jersey number 100, x 139.75, y 63.5).
+Undo.
+Added track 558 to frame 3692 of video shot 2 (team Finland, jersey number 100, x 139.25, y 63.75).
+Imputed coordinates for track 558 of video shot 2.
+Set jersey number of track 558 in video shot 2 to 10.
