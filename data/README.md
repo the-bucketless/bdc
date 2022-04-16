@@ -1,9 +1,16 @@
 
-Cleaned csv files for the tracking data from the Big Data Cup (data found [here](https://github.com/bigdatacup/Big-Data-Cup-2021)).
+Cleaned csv files for the data from the Big Data Cup (data found [here](https://github.com/bigdatacup/Big-Data-Cup-2021)).
 
 You can check out what CAN-USA P1 PP1 looks like [on my Twitter](https://twitter.com/the_bucketless/status/1508884825792425984).
 
+<br/>
+<h1>Play-by-play data</h1>
+The only addition to the play-by-play file is two frame ID columns. These can be used to identity which frame in the tracking data an event is associated with. The second frame ID is used exclusively on passing plays to denote in which frame the pass was received. This was mainly done because I didn't like having invisible players receiving passes.  
 <br/><br/>
+I've also corrected a few errors where I've seen them.
+
+<br/><br/>
+<h1>Tracking data</h1>
 A couple notes:
 <ul>
   <li>If coordinates look a little choppy somewhere, that's almost certainly my fault.</li>
@@ -64,3 +71,7 @@ Things I've handtracked:
 
 <br/><br/>
 If checking the changelog directory, note that the first two files are incomplete and the third may be missing information from some manual manipulation of the file.
+
+<br/>
+<h1>Rosters</h1>
+There was only one player I noticed with an incorrect number (Evelina Raselli). Otherwise, the roster files are the same as the original repo.
