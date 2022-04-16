@@ -901,3 +901,4 @@ Added track 452 to frame 4563 of video shot 3 (team USA, jersey number 100, x 48
 Added track 452 to frame 4579 of video shot 3 (team USA, jersey number 100, x 58.25, y 38.25).
 Imputed coordinates for video shot 3.
 Set jersey number of track 452 in video shot 3 to 27.
+Set jersey number of track 126 in video shot 2 to 28.
