@@ -265,3 +265,4 @@ Set jersey number of track 3 in video shot 2 to 22.
 Manually removed frames 3186 to 3261.
 Manually removed frames 3990 to 4130.
 Manually removed frames 4489 to 4579.
+Removed track 12 from video shot 2.
