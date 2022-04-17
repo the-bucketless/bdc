@@ -9175,19 +9175,19 @@ game_date,season_year,team_name,opp_team_name,venue,period,clock_seconds,situati
 16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,658,5 on 5,0,0,Tanja Niskanen,Penalty Taken,f,186,44,Goalkeeper interference,Andrea Brandli,,,,,,,
 16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,658,5 on 4,0,0,Alina Muller,Faceoff Win,t,169,21,Backhand,Susanna Tapani,,,,,,,
 16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,657,5 on 4,0,0,Lara Christen,Puck Recovery,t,139,9,,,,,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,656,5 on 4,0,0,Lara Christen,Play,t,146,5,Direct,Alina Muller,165,6,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,653,5 on 4,0,0,Alina Muller,Play,t,166,10,Direct,Lara Christen,132,16,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,651,5 on 4,0,0,Lara Christen,Play,t,134,33,Direct,Lara Stalder,140,67,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,650,5 on 4,0,0,Lara Stalder,Play,t,144,70,Direct,Lara Christen,129,45,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,648,5 on 4,0,0,Lara Christen,Play,t,133,40,Direct,Alina Muller,138,24,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,645,5 on 4,0,0,Alina Muller,Play,t,132,51,Direct,Lara Stalder,135,39,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,644,5 on 4,0,0,Lara Stalder,Shot,f,135,39,Slapshot,,,,Blocked,t,t,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,642,5 on 4,0,0,Lara Christen,Puck Recovery,t,193,18,,,,,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,639,5 on 4,0,0,Lara Christen,Play,t,182,6,Direct,Keely Moy,192,15,,,,,
-16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,637,4 on 5,0,0,Jenni Hiirikoski,Puck Recovery,t,2,41,,,,,,,,,
-16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,637,4 on 5,0,0,Jenni Hiirikoski,Dump In/Out,f,2,41,,,,,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,634,5 on 4,0,0,Alina Muller,Puck Recovery,t,121,83,,,,,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,633,5 on 4,0,0,Alina Muller,Play,t,118,84,Indirect,Phoebe Staenz,128,83,,,,,
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,656,5 on 4,0,0,Lara Christen,Play,t,146,5,Direct,Alina Muller,165,6,,,,76,91
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,653,5 on 4,0,0,Alina Muller,Play,t,166,10,Direct,Lara Christen,132,16,,,,162,189
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,651,5 on 4,0,0,Lara Christen,Play,t,134,33,Direct,Lara Stalder,140,67,,,,220,242
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,650,5 on 4,0,0,Lara Stalder,Play,t,144,70,Direct,Lara Christen,129,45,,,,264,295
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,648,5 on 4,0,0,Lara Christen,Play,t,133,40,Direct,Alina Muller,138,24,,,,312,327
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,645,5 on 4,0,0,Alina Muller,Play,t,132,51,Direct,Lara Stalder,135,39,,,,418,439
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,644,5 on 4,0,0,Lara Stalder,Shot,f,135,39,Slapshot,,,,Blocked,t,t,439,
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,642,5 on 4,0,0,Lara Christen,Puck Recovery,t,193,18,,,,,,,,501,
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,639,5 on 4,0,0,Lara Christen,Play,f,182,6,Direct,Keely Moy,192,15,,,,591,
+16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,637,4 on 5,0,0,Jenni Hiirikoski,Puck Recovery,t,2,41,,,,,,,,652,
+16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,637,4 on 5,0,0,Jenni Hiirikoski,Dump In/Out,f,2,41,,,,,,,,652,
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,634,5 on 4,0,0,Alina Muller,Puck Recovery,t,121,83,,,,,,,,698,
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,633,5 on 4,0,0,Alina Muller,Play,t,118,84,Indirect,Phoebe Staenz,128,83,,,,750,766
 16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,632,4 on 5,0,0,Noora Tulus,Faceoff Win,t,80,20,Backhand,Alina Muller,,,,,,,
 16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,632,4 on 5,0,0,Ronja Savolainen,Puck Recovery,t,59,30,,,,,,,,,
 16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,631,4 on 5,0,0,Ronja Savolainen,Dump In/Out,f,60,33,,,,,,,,,
@@ -9209,16 +9209,16 @@ game_date,season_year,team_name,opp_team_name,venue,period,clock_seconds,situati
 16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,579,4 on 5,0,0,Jenni Hiirikoski,Dump In/Out,f,29,21,,,,,,,,,
 16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,575,5 on 4,0,0,Sinja Leemann,Puck Recovery,t,17,19,,,,,,,,,
 16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,565,5 on 4,0,0,Sinja Leemann,Play,t,32,46,Direct,Dominique Ruegg,78,77,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,562,4 on 5,0,0,Dominique Ruegg,Zone Entry,t,126,75,Carried,Nelli Laitinen,,,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,559,5 on 4,0,0,Dominique Ruegg,Play,t,168,84,Direct,Rahel Enzler,183,82,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,557,5 on 4,0,0,Rahel Enzler,Play,t,178,82,Direct,Sinja Leemann,129,65,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,555,5 on 4,0,0,Sinja Leemann,Play,t,133,68,Indirect,Dominique Ruegg,175,84,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,551,5 on 4,0,0,Dominique Ruegg,Play,t,147,80,Direct,Evelina Raselli,147,14,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,549,5 on 4,0,0,Evelina Raselli,Play,t,155,15,Direct,Rahel Enzler,157,41,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,548,5 on 4,0,0,Rahel Enzler,Shot,f,164,38,Snapshot,,,,Blocked,t,f,,
-16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,546,4 on 5,0,0,Minnamari Tuominen,Puck Recovery,t,16,50,,,,,,,,,
-16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,545,4 on 5,0,0,Minnamari Tuominen,Dump In/Out,f,23,61,,,,,,,,,
-16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,540,5 on 4,0,0,Andrea Brandli,Puck Recovery,t,2,39,,,,,,,,,
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,562,4 on 5,0,0,Dominique Ruegg,Zone Entry,t,126,75,Carried,Nelli Laitinen,,,,,,3564,
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,559,5 on 4,0,0,Dominique Ruegg,Play,t,168,84,Direct,Rahel Enzler,183,82,,,,3653,3677
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,557,5 on 4,0,0,Rahel Enzler,Play,t,178,82,Direct,Sinja Leemann,129,65,,,,3710,3747
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,555,5 on 4,0,0,Sinja Leemann,Play,t,133,68,Indirect,Dominique Ruegg,175,84,,,,3763,3792
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,551,5 on 4,0,0,Dominique Ruegg,Play,t,147,80,Direct,Evelina Raselli,147,14,,,,3873,3912
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,549,5 on 4,0,0,Evelina Raselli,Play,t,155,15,Direct,Rahel Enzler,157,41,,,,3928,3950
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,548,5 on 4,0,0,Rahel Enzler,Shot,f,164,38,Snapshot,,,,Blocked,t,f,3962,
+16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,546,4 on 5,0,0,Minnamari Tuominen,Puck Recovery,t,16,50,,,,,,,,4036,
+16/2/2022,2021,Olympic (Women) - Finland,Olympic (Women) - Switzerland,home,1,545,4 on 5,0,0,Minnamari Tuominen,Dump In/Out,f,23,61,,,,,,,,4068,
+16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,540,5 on 4,0,0,Andrea Brandli,Puck Recovery,t,2,39,,,,,,,,4203,
 16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,540,5 on 4,0,0,Andrea Brandli,Play,t,2,39,Indirect,Sinja Leemann,5,33,,,,,
 16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,533,5 on 5,0,0,Sinja Leemann,Play,f,22,46,Direct,Stefanie Wetli,29,13,,,,,
 16/2/2022,2021,Olympic (Women) - Switzerland,Olympic (Women) - Finland,away,1,530,5 on 5,0,0,Sinja Leemann,Puck Recovery,t,14,6,,,,,,,,,
