@@ -68,6 +68,7 @@ Things I've handtracked:
   <li>Video shot 3 from SUI CAN P1 PP2.</li>
   <li>Video shot 3 from SUI CAN P3 PP5.</li>
   <li>Video shot 2 from SUI FIN P1 PP1.</li>
+  <li>Video shot 3 from SUI FIN P1 PP2.</li>
 </ul>
 
 <br/><br/>
