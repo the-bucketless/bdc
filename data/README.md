@@ -70,6 +70,8 @@ Things I've handtracked:
   <li>Video shot 2 from SUI FIN P1 PP1.</li>
   <li>Video shot 3 from SUI FIN P1 PP2.</li>
   <li>Video shot 2 from SUI FIN P2 PP3.</li>
+  <li>Video shot 2 from SUI FIN P2 PP4 (this was actually from a different camera, but it was in there, so I did it).</li>
+  <li>Video shot 5 from SUI FIN P2 PP4.</li>
 </ul>
 
 <br/><br/>
