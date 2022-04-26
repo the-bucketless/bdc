@@ -815,3 +815,38 @@ Set jersey number of track 211 in video shot 2 to 26.
 Set jersey number of track 212 in video shot 2 to 5.
 Set jersey number of track 17 in video shot 1 to 5.
 Set jersey number of track 24 in video shot 1 to 15.
+Merged track 171 from video shot 1 with track 128.
+Imputed coordinates for track 128 of video shot 1.
+Merged track 173 from video shot 1 with track 168.
+Imputed coordinates for track 168 of video shot 1.
+Merged track 176 from video shot 1 with track 168.
+Imputed coordinates for track 168 of video shot 1.
+Merged track 182 from video shot 1 with track 131.
+Imputed coordinates for track 131 of video shot 1.
+Merged track 183 from video shot 1 with track 134.
+Imputed coordinates for track 134 of video shot 1.
+Removed track 195 from video shot 1.
+Merged track 199 from video shot 1 with track 131.
+Imputed coordinates for track 131 of video shot 1.
+Merged track 197 from video shot 1 with track 189.
+Imputed coordinates for track 189 of video shot 1.
+Merged track 196 from video shot 1 with track 134.
+Imputed coordinates for track 134 of video shot 1.
+Set jersey number of track 133 in video shot 1 to 5.
+Merged track 160 from video shot 1 with track 90.
+Imputed coordinates for track 90 of video shot 1.
+Merged track 211 from video shot 2 with track 205.
+Imputed coordinates for track 205 of video shot 2.
+Added track 204 to frame 2999 of video shot 2 (team USA, jersey number 28, x 15.5, y 39.75).
+Added track 204 to frame 3030 of video shot 2 (team USA, jersey number 28, x 7.25, y 37.75).
+Added track 204 to frame 3046 of video shot 2 (team USA, jersey number 28, x 5.75, y 36.5).
+Added track 204 to frame 3127 of video shot 2 (team USA, jersey number 28, x 6.75, y 33.75).
+Added track 204 to frame 3197 of video shot 2 (team USA, jersey number 28, x 18.0, y 39.75).
+Added track 204 to frame 3221 of video shot 2 (team USA, jersey number 28, x 18.0, y 43.0).
+Added track 204 to frame 3281 of video shot 2 (team USA, jersey number 28, x 18.75, y 42.0).
+Added track 204 to frame 3353 of video shot 2 (team USA, jersey number 28, x 18.5, y 45.25).
+Added track 204 to frame 3424 of video shot 2 (team USA, jersey number 28, x 18.25, y 39.75).
+Added track 204 to frame 3463 of video shot 2 (team USA, jersey number 28, x 12.5, y 34.25).
+Added track 204 to frame 3515 of video shot 2 (team USA, jersey number 28, x 17.25, y 38.5).
+Added track 204 to frame 3589 of video shot 2 (team USA, jersey number 28, x 17.25, y 37.75).
+Imputed coordinates for track 204 of video shot 2.

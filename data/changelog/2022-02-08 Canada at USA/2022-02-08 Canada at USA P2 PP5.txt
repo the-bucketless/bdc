@@ -388,3 +388,40 @@ Added track 206 to frame 4212 of video shot 5 (team USA, jersey number 100, x 11
 Added track 206 to frame 4233 of video shot 5 (team USA, jersey number 100, x 11.75, y 40.5).
 Imputed coordinates for track 206 of video shot 5.
 Set jersey number of track 206 in video shot 5 to 35.
+Merged track 56 from video shot 1 with track 48.
+Added track 48 to frame 90 of video shot 1 (team Canada, jersey number 100, x 168.75, y 59.0).
+Imputed coordinates for track 48 of video shot 1.
+Merged track 65 from video shot 1 with track 60.
+Imputed coordinates for track 60 of video shot 1.
+Set jersey number of track 48 in video shot 1 to 19.
+Merged track 67 from video shot 1 with track 43.
+Imputed coordinates for track 43 of video shot 1.
+Merged track 102 from video shot 1 with track 50.
+Imputed coordinates for track 50 of video shot 1.
+Set jersey number of track 50 in video shot 1 to 29.
+Merged track 120 from video shot 1 with track 69.
+Imputed coordinates for track 69 of video shot 1.
+Set jersey number of track 69 in video shot 1 to 23.
+Merged track 135 from video shot 1 with track 49.
+Imputed coordinates for track 49 of video shot 1.
+Merged track 123 from video shot 1 with track 43.
+Imputed coordinates for track 43 of video shot 1.
+Set jersey number of track 60 in video shot 1 to 5.
+Merged track 166 from video shot 2 with track 122.
+Imputed coordinates for track 122 of video shot 2.
+Added track 85 to frame 2761 of video shot 4 (team USA, jersey number 100, x 188.25, y 21.0).
+Imputed coordinates for track 85 of video shot 4.
+Merged track 205 from video shot 5 with track 203.
+Imputed coordinates for track 203 of video shot 5.
+Set jersey number of track 142 in video shot 2 to 27.
+Set jersey number of track 146 in video shot 2 to 14.
+Imputed coordinates for all tracks.
+Set jersey number of track 4 in video shot 3 to 14.
+Set jersey number of track 3 in video shot 3 to 26.
+Set jersey number of track 6 in video shot 3 to 21.
+Set jersey number of track 5 in video shot 3 to 5.
+Set jersey number of track 37 in video shot 3 to 14.
+Set jersey number of track 36 in video shot 3 to 26.
+Set jersey number of track 6 in video shot 3 to 19.
+Set jersey number of track 80 in video shot 4 to 14.
+Set jersey number of track 85 in video shot 4 to 26.

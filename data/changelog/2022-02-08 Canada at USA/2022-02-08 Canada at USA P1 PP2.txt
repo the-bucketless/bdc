@@ -111,3 +111,73 @@ Set jersey number of track 408 in video shot 3 to 20.
 Set jersey number of track 402 in video shot 3 to 28.
 Set jersey number of track 401 in video shot 3 to 21.
 Set jersey number of track 404 in video shot 3 to 10.
+Removed track 120 from video shot 1.
+Undo.
+Merged track 120 from video shot 1 with track 409 starting at frame 164.
+Removed track 409 from video shot 1.
+Shifted x-coordinates of all tracks in frames 185 to 247 to maintain position of track 131.
+Shifted x-coordinates of all tracks in frames 185 to 288 to maintain position of track 131.
+Imputed coordinates for all tracks.
+Added track 196 to frame 521 of video shot 1 (team USA, jersey number 100, x 40.25, y 71.25).
+Imputed coordinates for track 196 of video shot 1.
+Added track 117 to frame 530 of video shot 1 (team USA, jersey number 100, x 15.25, y 9.5).
+Merged track 213 from video shot 1 with track 117.
+Imputed coordinates for track 117 of video shot 1.
+Set jersey number of track 117 in video shot 1 to 11.
+Set jersey number of track 196 in video shot 1 to 12.
+Merged track 216 from video shot 1 with track 131.
+Imputed coordinates for track 131 of video shot 1.
+Merged track 223 from video shot 1 with track 109.
+Imputed coordinates for track 109 of video shot 1.
+Merged track 218 from video shot 1 with track 196.
+Imputed coordinates for track 196 of video shot 1.
+Added track 113 to frame 723 of video shot 1 (team USA, jersey number 100, x 43.5, y 30.75).
+Imputed coordinates for track 113 of video shot 1.
+Added track 155 to frame 726 of video shot 1 (team USA, jersey number 100, x 34.5, y 46.0).
+Imputed coordinates for track 155 of video shot 1.
+Merged track 247 from video shot 1 with track 110.
+Imputed coordinates for track 110 of video shot 1.
+Set jersey number of track 113 in video shot 1 to 28.
+Set jersey number of track 155 in video shot 1 to 25.
+Merged track 252 from video shot 1 with track 243.
+Imputed coordinates for track 243 of video shot 1.
+Added track 282 to frame 1201 of video shot 1 (team USA, jersey number 100, x 94.5, y 7.0).
+Merged track 289 from video shot 1 with track 282.
+Imputed coordinates for track 282 of video shot 1.
+Merged track 298 from video shot 1 with track 253.
+Imputed coordinates for track 253 of video shot 1.
+Merged track 300 from video shot 1 with track 261.
+Imputed coordinates for track 261 of video shot 1.
+Merged track 303 from video shot 1 with track 277.
+Imputed coordinates for track 277 of video shot 1.
+Merged track 305 from video shot 1 with track 262.
+Imputed coordinates for track 262 of video shot 1.
+Merged track 306 from video shot 1 with track 290.
+Imputed coordinates for track 290 of video shot 1.
+Merged track 307 from video shot 1 with track 292.
+Imputed coordinates for track 292 of video shot 1.
+Merged track 310 from video shot 1 with track 277.
+Imputed coordinates for track 277 of video shot 1.
+Shifted x-coordinates of all tracks in frames 1699 to 1749 to maintain position of track 290.
+Shifted frame 1750 coordinates (-3.0, 0).
+Shifted x-coordinates of all tracks in frames 1751 to 1834 to maintain position of track 290.
+Merged track 322 from video shot 1 with track 253.
+Imputed coordinates for track 253 of video shot 1.
+Merged track 326 from video shot 1 with track 314.
+Imputed coordinates for track 314 of video shot 1.
+Merged track 329 from video shot 1 with track 292.
+Imputed coordinates for track 292 of video shot 1.
+Merged track 332 from video shot 1 with track 261.
+Imputed coordinates for track 261 of video shot 1.
+Added track 46 to frame 2517 of video shot 2 (team Canada, jersey number 100, x 66.25, y 60.5).
+Merged track 75 from video shot 2 with track 46.
+Imputed coordinates for track 46 of video shot 2.
+Set jersey number of track 282 in video shot 2 to 3.
+Undo.
+Set jersey number of track 46 in video shot 2 to 20.
+Merged track 98 from video shot 2 with track 85.
+Imputed coordinates for track 85 of video shot 2.
+Undo.
+Undo.
+Set jersey number of track 282 in video shot 1 to 3.
+Set jersey number of track 44 in video shot 2 to 19.

@@ -104,3 +104,10 @@ Added track 52 to frame 1920 of video shot 2 (team USA, jersey number 100, x 62.
 Added track 52 to frame 1939 of video shot 2 (team USA, jersey number 100, x 53.75, y 65.75).
 Imputed coordinates for track 52 of video shot 2.
 Set jersey number of track 52 in video shot 2 to 20.
+Merged track 21 from video shot 1 with track 6.
+Imputed coordinates for track 6 of video shot 1.
+Merged track 37 from video shot 1 with track 3.
+Imputed coordinates for track 3 of video shot 1.
+Set jersey number of track 2 in video shot 1 to 23.
+Set jersey number of track 6 in video shot 1 to 26.
+Set jersey number of track 19 in video shot 1 to 15.
