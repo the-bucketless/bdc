@@ -455,3 +455,21 @@ Set jersey number of track 188 in video shot 3 to 2.
 Set jersey number of track 196 in video shot 3 to 17.
 Set jersey number of track 197 in video shot 3 to 17.
 Set jersey number of track 198 in video shot 3 to 20.
+Merged track 25 from video shot 1 with track 11.
+Imputed coordinates for track 11 of video shot 1.
+Merged track 31 from video shot 1 with track 11.
+Imputed coordinates for track 11 of video shot 1.
+Merged track 38 from video shot 1 with track 3.
+Imputed coordinates for track 3 of video shot 1.
+Merged track 41 from video shot 1 with track 3.
+Imputed coordinates for track 3 of video shot 1.
+Merged track 48 from video shot 1 with track 1.
+Imputed coordinates for track 1 of video shot 1.
+Merged track 49 from video shot 1 with track 2.
+Imputed coordinates for track 2 of video shot 1.
+Merged track 109 from video shot 2 with track 75.
+Imputed coordinates for track 75 of video shot 2.
+Merged track 40 from video shot 1 with track 6.
+Imputed coordinates for track 6 of video shot 1.
+Set jersey number of track 155 in video shot 1 to 70.
+Set jersey number of track 186 in video shot 3 to 13.

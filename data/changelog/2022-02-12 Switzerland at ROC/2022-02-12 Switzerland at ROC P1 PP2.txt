@@ -383,3 +383,51 @@ Set jersey number of track 231 in video shot 3 to 42.
 Set jersey number of track 235 in video shot 3 to 19.
 Set jersey number of track 232 in video shot 3 to 87.
 Manually removed frames 3836 to 3867.
+Merged track 62 from video shot 1 with track 51.
+Imputed coordinates for track 51 of video shot 1.
+Merged track 170 from video shot 1 with track 80.
+Imputed coordinates for track 80 of video shot 1.
+Merged track 190 from video shot 1 with track 80.
+Imputed coordinates for track 80 of video shot 1.
+Merged track 199 from video shot 1 with track 80.
+Imputed coordinates for track 80 of video shot 1.
+Merged track 38 from video shot 2 with track 2.
+Imputed coordinates for track 2 of video shot 2.
+Merged track 45 from video shot 2 with track 6.
+Added track 6 to frame 1253 of video shot 2 (team ROC, jersey number 100, x 192.25, y 15.5).
+Imputed coordinates for track 6 of video shot 2.
+Merged track 66 from video shot 2 with track 31.
+Imputed coordinates for track 31 of video shot 2.
+Merged track 72 from video shot 2 with track 58.
+Imputed coordinates for track 58 of video shot 2.
+Set jersey number of track 6 in video shot 2 to 97.
+Imputed coordinates for all tracks.
+Merged track 178 from video shot 2 with track 166.
+Imputed coordinates for track 166 of video shot 2.
+Merged track 194 from video shot 2 with track 164.
+Imputed coordinates for track 164 of video shot 2.
+Merged track 201 from video shot 2 with track 127.
+Imputed coordinates for track 127 of video shot 2.
+Set jersey number of track 74 in video shot 2 to 15.
+Merged track 127 from video shot 2 with track 119.
+Imputed coordinates for track 119 of video shot 2.
+Merged track 184 from video shot 2 with track 167.
+Imputed coordinates for track 167 of video shot 2.
+Shifted frame 2723 coordinates (1.0, 0).
+Shifted frame 2724 coordinates (2.0, 0).
+Shifted frame 2725 coordinates (2.0, 0).
+Shifted frame 2726 coordinates (2.0, 0).
+Shifted frame 2727 coordinates (2.0, 0).
+Shifted frame 2728 coordinates (2.0, 0).
+Shifted frame 2729 coordinates (2.0, 0).
+Shifted frame 2730 coordinates (2.0, 0).
+Shifted frame 2731 coordinates (2.0, 0).
+Shifted frame 2732 coordinates (2.0, 0).
+Shifted frame 2733 coordinates (2.0, 0).
+Shifted frame 2734 coordinates (2.0, 0).
+Shifted frame 2735 coordinates (3.0, 0).
+Shifted x-coordinates of all tracks in frames 2736 to 2773 to maintain position of track 172.
+Shifted x-coordinates of all tracks in frames 2825 to 2871 to maintain position of track 172.
+Set jersey number of track 239 in video shot 3 to 25.
+Set jersey number of track 228 in video shot 3 to 3.
+Set jersey number of track 238 in video shot 3 to 3.

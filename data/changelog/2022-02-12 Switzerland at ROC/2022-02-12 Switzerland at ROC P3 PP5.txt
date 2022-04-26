@@ -327,3 +327,7 @@ Set jersey number of track 119 in video shot 2 to 70.
 Set jersey number of track 114 in video shot 2 to 27.
 Set jersey number of track 109 in video shot 2 to 25.
 Set jersey number of track 65 in video shot 1 to 18.
+Merged track 108 from video shot 1 with track 82.
+Added track 82 to frame 569 of video shot 1 (team ROC, jersey number 100, x 193.75, y 37.75).
+Imputed coordinates for track 82 of video shot 1.
+Set jersey number of track 82 in video shot 1 to 13.
