@@ -491,3 +491,14 @@ Set jersey number of track 391 in video shot 2 to 88.
 Set jersey number of track 382 in video shot 2 to 36.
 Set jersey number of track 343 in video shot 1 to 98.
 Manually removed frames 1987 to 2036.
+Merged track 175 from video shot 1 with track 162.
+Imputed coordinates for track 162 of video shot 1.
+Merged track 181 from video shot 1 with track 168.
+Imputed coordinates for track 168 of video shot 1.
+Merged track 365 from video shot 1 with track 360.
+Set jersey number of track 360 in video shot 1 to 25.
+Imputed coordinates for track 360 of video shot 1.
+Merged track 215 from video shot 1 with track 189.
+Imputed coordinates for track 189 of video shot 1.
+Merged track 376 from video shot 2 with track 368.
+Imputed coordinates for track 368 of video shot 2.

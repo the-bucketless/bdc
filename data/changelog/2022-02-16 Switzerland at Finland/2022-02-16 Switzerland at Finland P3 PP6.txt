@@ -373,3 +373,4 @@ Set jersey number of track 312 in video shot 4 to 16.
 Set jersey number of track 313 in video shot 4 to 14.
 Set jersey number of track 305 in video shot 4 to 14.
 Manually removed frames 945 to 2561.
+Set jersey number of track 118 in video shot 3 to 26.

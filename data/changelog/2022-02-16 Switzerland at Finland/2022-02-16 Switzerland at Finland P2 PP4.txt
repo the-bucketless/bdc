@@ -499,3 +499,5 @@ Set jersey number of track 266 in video shot 1 to 20.
 Deleted frame 4197 from video shot 4.
 Manually removed frames 1 to 16.
 Manually removed frames 1564 to 2896.
+Merged track 206 from video shot 1 with track 196.
+Imputed coordinates for track 196 of video shot 1.

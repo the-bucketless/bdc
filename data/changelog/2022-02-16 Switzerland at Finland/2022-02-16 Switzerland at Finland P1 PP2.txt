@@ -487,3 +487,25 @@ Merged track 238 from video shot 2 with track 234.
 Imputed coordinates for track 234 of video shot 2.
 Set jersey number of track 234 in video shot 2 to 33.
 Manually deleted frames 1315 to 1985.
+Merged track 321 from video shot 1 with track 277.
+Imputed coordinates for track 277 of video shot 1.
+Merged track 405 from video shot 3 with track 401.
+Imputed coordinates for track 401 of video shot 3.
+Merged track 404 from video shot 3 with track 397.
+Imputed coordinates for track 397 of video shot 3.
+Merged track 340 from video shot 1 with track 286.
+Imputed coordinates for track 286 of video shot 1.
+Undo.
+Added track 286 to frame 752 of video shot 1 (team Finland, jersey number 100, x 189.25, y 11.5).
+Set jersey number of track 286 in video shot 1 to 16.
+Imputed coordinates for track 286 of video shot 1.
+Undo.
+Undo.
+Undo.
+Added track 286 to frame 765 of video shot 1 (team Finland, jersey number 100, x 190.25, y 16.0).
+Added track 286 to frame 805 of video shot 1 (team Finland, jersey number 100, x 183.0, y 10.75).
+Set jersey number of track 286 in video shot 1 to 16.
+Imputed coordinates for track 286 of video shot 1.
+Set jersey number of track 143 in video shot 2 to 14.
+Set jersey number of track 140 in video shot 2 to 16.
+Removed track 324 from video shot 1.
