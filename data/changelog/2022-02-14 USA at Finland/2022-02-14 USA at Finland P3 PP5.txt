@@ -665,3 +665,51 @@ Undo.
 Added track 558 to frame 3692 of video shot 2 (team Finland, jersey number 100, x 139.25, y 63.75).
 Imputed coordinates for track 558 of video shot 2.
 Set jersey number of track 558 in video shot 2 to 10.
+Merged track 305 from video shot 1 with track 276.
+Imputed coordinates for track 276 of video shot 1.
+Merged track 314 from video shot 1 with track 293.
+Imputed coordinates for track 293 of video shot 1.
+Merged track 320 from video shot 1 with track 272.
+Added track 272 to frame 973 of video shot 1 (team Finland, jersey number 100, x 193.75, y 37.75).
+Imputed coordinates for track 272 of video shot 1.
+Merged track 323 from video shot 1 with track 312.
+Imputed coordinates for track 312 of video shot 1.
+Merged track 326 from video shot 1 with track 272.
+Imputed coordinates for track 272 of video shot 1.
+Merged track 388 from video shot 1 with track 374.
+Imputed coordinates for track 374 of video shot 1.
+Set jersey number of track 272 in video shot 1 to 16.
+Merged track 391 from video shot 1 with track 375.
+Imputed coordinates for track 375 of video shot 1.
+Merged track 393 from video shot 1 with track 376.
+Imputed coordinates for track 376 of video shot 1.
+Merged track 394 from video shot 1 with track 385.
+Imputed coordinates for track 385 of video shot 1.
+Merged track 546 from video shot 1 with track 471.
+Imputed coordinates for track 471 of video shot 1.
+Merged track 491 from video shot 1 with track 471.
+Imputed coordinates for track 471 of video shot 1.
+Merged track 533 from video shot 1 with track 503.
+Imputed coordinates for track 503 of video shot 1.
+Merged track 530 from video shot 1 with track 378.
+Imputed coordinates for track 378 of video shot 1.
+Added track 471 to frame 2443 of video shot 1 (team Finland, jersey number 100, x 163.5, y 42.25).
+Merged track 535 from video shot 1 with track 471.
+Imputed coordinates for track 471 of video shot 1.
+Set jersey number of track 471 in video shot 1 to 10.
+Merged track 558 from video shot 2 with track 554.
+Imputed coordinates for track 554 of video shot 2.
+Merged track 559 from video shot 2 with track 557.
+Imputed coordinates for track 557 of video shot 2.
+Merged track 560 from video shot 2 with track 555.
+Imputed coordinates for track 555 of video shot 2.
+Merged track 563 from video shot 2 with track 555.
+Imputed coordinates for track 555 of video shot 2.
+Merged track 564 from video shot 2 with track 561.
+Imputed coordinates for track 561 of video shot 2.
+Merged track 566 from video shot 2 with track 552.
+Imputed coordinates for track 552 of video shot 2.
+Merged track 567 from video shot 2 with track 547.
+Imputed coordinates for track 547 of video shot 2.
+Merged track 568 from video shot 2 with track 555.
+Imputed coordinates for track 555 of video shot 2.
