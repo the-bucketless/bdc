@@ -243,3 +243,19 @@ Undo.
 Added track 205 to frame 2501 of video shot 3 (team Switzerland, jersey number 100, x 57.5, y 3.0).
 Imputed coordinates for video shot 3.
 Set jersey number of track 205 in video shot 3 to 15.
+Merged track 109 from video shot 2 with track 80.
+Imputed coordinates for track 80 of video shot 2.
+Merged track 108 from video shot 2 with track 81.
+Imputed coordinates for track 81 of video shot 2.
+Merged track 111 from video shot 2 with track 83.
+Imputed coordinates for track 83 of video shot 2.
+Merged track 124 from video shot 2 with track 82.
+Undo.
+Merged track 124 from video shot 2 with track 86.
+Imputed coordinates for track 86 of video shot 2.
+Merged track 122 from video shot 2 with track 82.
+Imputed coordinates for track 82 of video shot 2.
+Set jersey number of track 82 in video shot 2 to 26.
+Merged track 123 from video shot 2 with track 95.
+Imputed coordinates for track 95 of video shot 2.
+Set jersey number of track 84 in video shot 2 to 17.

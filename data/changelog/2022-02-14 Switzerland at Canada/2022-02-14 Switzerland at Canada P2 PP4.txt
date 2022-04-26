@@ -266,3 +266,63 @@ Manually removed frames 3186 to 3261.
 Manually removed frames 3990 to 4130.
 Manually removed frames 4489 to 4579.
 Removed track 12 from video shot 2.
+Merged track 71 from video shot 1 with track 61.
+Imputed coordinates for track 61 of video shot 1.
+Merged track 78 from video shot 1 with track 37.
+Imputed coordinates for track 37 of video shot 1.
+Merged track 82 from video shot 1 with track 61.
+Imputed coordinates for track 61 of video shot 1.
+Merged track 91 from video shot 1 with track 37.
+Imputed coordinates for track 37 of video shot 1.
+Merged track 93 from video shot 1 with track 38.
+Imputed coordinates for track 38 of video shot 1.
+Merged track 110 from video shot 1 with track 61.
+Added track 61 to frame 980 of video shot 1 (team Canada, jersey number 100, x 12.75, y 36.25).
+Imputed coordinates for track 61 of video shot 1.
+Merged track 112 from video shot 1 with track 103.
+Imputed coordinates for track 103 of video shot 1.
+Merged track 118 from video shot 1 with track 105.
+Imputed coordinates for track 105 of video shot 1.
+Merged track 120 from video shot 1 with track 61.
+Imputed coordinates for track 61 of video shot 1.
+Merged track 121 from video shot 1 with track 51.
+Imputed coordinates for track 51 of video shot 1.
+Merged track 122 from video shot 1 with track 56.
+Imputed coordinates for track 56 of video shot 1.
+Merged track 133 from video shot 1 with track 105.
+Imputed coordinates for track 105 of video shot 1.
+Set jersey number of track 61 in video shot 1 to 24.
+Merged track 157 from video shot 1 with track 56.
+Imputed coordinates for track 56 of video shot 1.
+Merged track 332 from video shot 1 with track 316.
+Imputed coordinates for track 316 of video shot 1.
+Merged track 336 from video shot 1 with track 327.
+Imputed coordinates for track 327 of video shot 1.
+Merged track 350 from video shot 1 with track 270.
+Imputed coordinates for track 270 of video shot 1.
+Merged track 349 from video shot 1 with track 278.
+Imputed coordinates for track 278 of video shot 1.
+Merged track 357 from video shot 1 with track 256.
+Imputed coordinates for track 256 of video shot 1.
+Merged track 359 from video shot 1 with track 319.
+Imputed coordinates for track 319 of video shot 1.
+Removed track 34 from video shot 1.
+Merged track 66 from video shot 1 with track 39.
+Imputed coordinates for track 39 of video shot 1.
+Merged track 67 from video shot 1 with track 33.
+Imputed coordinates for track 33 of video shot 1.
+Added track 39 to frame 1213 of video shot 1 (team Canada, jersey number 100, x 10.25, y 37.0).
+Added track 39 to frame 1220 of video shot 1 (team Canada, jersey number 100, x 5.25, y 38.75).
+Merged track 124 from video shot 1 with track 39.
+Set jersey number of track 39 in video shot 1 to 15.
+Imputed coordinates for track 39 of video shot 1.
+Set jersey number of track 155 in video shot 1 to 19.
+Merged track 164 from video shot 1 with track 155.
+Imputed coordinates for track 155 of video shot 1.
+Set jersey number of track 306 in video shot 1 to 24.
+Merged track 319 from video shot 1 with track 306.
+Imputed coordinates for track 306 of video shot 1.
+Merged track 228 from video shot 1 with track 227.
+Imputed coordinates for track 227 of video shot 1.
+Set jersey number of track 227 in video shot 1 to 35.
+Removed track 368 from video shot 1.

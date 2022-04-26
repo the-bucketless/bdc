@@ -382,3 +382,39 @@ Set jersey number of track 563 in video shot 2 to 7.
 Set jersey number of track 573 in video shot 3 to 7.
 Set jersey number of track 580 in video shot 3 to 7.
 Set jersey number of track 101 in video shot 1 to 17.
+Removed track 16 from video shot 1.
+Merged track 47 from video shot 1 with track 3.
+Imputed coordinates for track 3 of video shot 1.
+Merged track 54 from video shot 1 with track 49.
+Imputed coordinates for track 49 of video shot 1.
+Merged track 274 from video shot 2 with track 254.
+Imputed coordinates for track 254 of video shot 2.
+Merged track 279 from video shot 2 with track 255.
+Imputed coordinates for track 255 of video shot 2.
+Merged track 391 from video shot 2 with track 385.
+Imputed coordinates for track 385 of video shot 2.
+Set jersey number of track 135 in video shot 1 to 27.
+Set jersey number of track 140 in video shot 1 to 8.
+Merged track 257 from video shot 2 with track 256.
+Imputed coordinates for track 256 of video shot 2.
+Set jersey number of track 256 in video shot 2 to 26.
+Set jersey number of track 254 in video shot 2 to 21.
+Set jersey number of track 291 in video shot 2 to 16.
+Merged track 340 from video shot 2 with track 341 starting at frame 1984.
+Merged track 340 from video shot 2 with track 581 starting at frame 1980.
+Removed track 581 from video shot 2.
+Merged track 300 from video shot 2 with track 340.
+Imputed coordinates for track 300 of video shot 2.
+Set jersey number of track 340 in video shot 2 to 22.
+Merged track 340 from video shot 2 with track 300.
+Imputed coordinates for track 300 of video shot 2.
+Set jersey number of track 327 in video shot 2 to 26.
+Merged track 341 from video shot 2 with track 327.
+Imputed coordinates for track 327 of video shot 2.
+Set jersey number of track 327 in video shot 2 to 26.
+Merged track 385 from video shot 2 with track 375.
+Imputed coordinates for track 375 of video shot 2.
+Added track 328 to frame 2373 of video shot 2 (team Canada, jersey number 100, x 40.25, y 43.5).
+Merged track 399 from video shot 2 with track 328.
+Imputed coordinates for track 328 of video shot 2.
+Set jersey number of track 328 in video shot 2 to 7.
