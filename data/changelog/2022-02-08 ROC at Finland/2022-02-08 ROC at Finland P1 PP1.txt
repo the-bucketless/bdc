@@ -265,3 +265,24 @@ Set jersey number of track 171 in video shot 1 to 10.
 Set jersey number of track 254 in video shot 1 to 69.
 Set jersey number of track 286 in video shot 1 to 9.
 Set jersey number of track 285 in video shot 1 to 10.
+Merged track 26 from video shot 1 with track 4.
+Added track 4 to frame 145 of video shot 1 (team Finland, jersey number 100, x 130.0, y 38.25).
+Added track 4 to frame 186 of video shot 1 (team Finland, jersey number 100, x 108.75, y 47.75).
+Imputed coordinates for track 4 of video shot 1.
+Set jersey number of track 4 in video shot 1 to 10.
+Merged track 134 from video shot 1 with track 68.
+Imputed coordinates for track 68 of video shot 1.
+Merged track 163 from video shot 1 with track 126.
+Imputed coordinates for track 126 of video shot 1.
+Merged track 171 from video shot 1 with track 139.
+Imputed coordinates for track 139 of video shot 1.
+Merged track 232 from video shot 1 with track 135.
+Imputed coordinates for track 135 of video shot 1.
+Merged track 254 from video shot 1 with track 126.
+Imputed coordinates for track 126 of video shot 1.
+Merged track 252 from video shot 1 with track 100.
+Imputed coordinates for track 100 of video shot 1.
+Merged track 266 from video shot 1 with track 239.
+Imputed coordinates for track 239 of video shot 1.
+Set jersey number of track 7 in video shot 1 to 24.
+Set jersey number of track 8 in video shot 1 to 88.
