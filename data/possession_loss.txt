@@ -1,0 +1,21 @@
+This is a list of frames in which a player lost possession that can't be found from the event data alone.
+It is definitely incomplete (specifically it's loss of possession by a team in the offensive zone at 5v4), but maybe it helps someone.
+
+2022-02-08 Canada at USA P1 PP1: 719
+2022-02-08 Canada at USA P1 PP2: 1114, 2853
+2022-02-08 Canada at USA P2 PP3: 438, 1743
+2022-02-08 Canada at USA P2 PP5: 1689
+2022-02-08 ROC at Finland P2 PP5: 2600, 2662
+2022-02-08 ROC at Finland P3 PP6: 375, 976
+2022-02-12 Switzerland at ROC P1 PP1: 1106
+2022-02-12 Switzerland at ROC P1 PP2: 547
+2022-02-12 Switzerland at ROC P3 PP3: 2432
+2022-02-12 Switzerland at ROC P3 PP5: 463
+2022-02-14 Switzerland at Canada P1 PP1: 5576
+2022-02-14 Switzerland at Canada P3 PP5: 211
+2022-02-14 USA at Finland P2 PP1: 562, 706
+2022-02-14 USA at Finland P2 PP3: 1042, 1238
+2022-02-16 Switzerland at Finland P2 PP3: 5125
+2022-02-16 Switzerland at Finland P2 PP4: 195
+2022-02-16 Switzerland at Finland P3 PP7: 162
+2022-02-16 Switzerland at Finland P3 PP8: 3107, 3194, 3853
